@@ -20,3 +20,19 @@ Permite criar aplicativos para Android e iOS usando JavaScript.
 
 - O que é a framework Expo?
 Framework que facilita o desenvolvimento, teste e publicação de aplicativos feitos com React Native.
+
+- O que é o NPM?
+"Gerenciador de pacote do node" permite instalar, desinstalar, rodar scripts, atualizar (npm = instala e npx= executa)
+
+- O Stylesheet do react Native tem todas as propriedades da Web? 
+Nãooooooooooo
+
+- Todos as propriedades do Stylesheet funcionam para IOS e Android?
+Não, mas a grande maioria funciona para os dois
+
+
+### Instalação do expo 
+npx create-expo-app@latest --template
+- Blank
+- nome do app
+- For learning with Expo Go (SDK 54)
